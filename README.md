@@ -2,4 +2,6 @@
 
 Este diplomado es para aprender Js y la libreria de React Js 
 
-este es un nuevo cambio
+## Participantes:
+
+- [Yurley Sanchez](https://github.com/Yursksf1)
