@@ -5,3 +5,4 @@ Este diplomado es para aprender Js y la libreria de React Js
 ## Participantes:
 
 - [Yurley Sanchez](https://github.com/Yursksf1)
+- [Camilo Rondon](https://github.com/CamiloRondonDev)
