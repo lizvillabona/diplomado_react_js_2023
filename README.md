@@ -8,3 +8,4 @@ Este diplomado es para aprender Js y la libreria de React Js
 - [Camilo Rondon](https://github.com/CamiloRondonDev)
 - [Jheins Granados](https://github.com/jheins7)
 - [Mateo Romera](https://github.com/gmateo404)
+- [ivan diaz](https://github.com/ivanorlando1998)
