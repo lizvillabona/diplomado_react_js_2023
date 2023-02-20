@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.fuente-1
+{
+    font-family: 'Bungee Shade';
+    color: #300568;
+    text-shadow:2px 2px white;
+    text-align: center;
+}
+h2{
+    font-family: 'Sofia';
+    color: #300568;
+    text-shadow:2px 2px white;
+    text-align: center;
+}
+.imagen{
+
+    width:100px;
+    height:100px;
+}
