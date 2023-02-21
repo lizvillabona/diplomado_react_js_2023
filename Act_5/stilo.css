@@ -1,0 +1,12 @@
+.imagen{
+    width:500px;
+    height:500px;
+    margin-left: 50%;
+    margin-top: 5px;
+    border-style: groove;
+}
+h1{
+    text-align: center;
+    text-shadow:2px 2px rgb(179, 16, 16);
+
+}
