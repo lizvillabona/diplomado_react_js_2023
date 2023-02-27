@@ -1,0 +1,23 @@
+.imagen{
+    width:500px;
+    height:500px;
+    margin-left: 50%;
+    margin-top: 5px;
+    border-style: groove;
+    }
+body {
+    background-color: hwb(271 6% 15% / 0.377);
+  }
+  h1 {
+    color: rgb(230, 27, 0);
+    text-align: center;
+    text-shadow:2px 2px rgb(219, 198, 198);
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  h2 {
+    color: rgb(224, 185, 11);
+    text-shadow:2px 2px rgb(119, 110, 110);
+  }
